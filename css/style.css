@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.clock img{
+    width:100px;
+    margin-left: 20px;
+}
+
+#subscribe-area{
+    height: 300px;
+}
